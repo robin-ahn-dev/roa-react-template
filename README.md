@@ -4,4 +4,5 @@
 ```bash
 npm i
 rm -rf .git
+npm run dev
 ```
