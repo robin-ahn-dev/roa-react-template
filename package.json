@@ -13,6 +13,7 @@
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-router-dom": "^7.5.0",
     "sass": "^1.80.6",
     "sass-loader": "^16.0.3"
   },
@@ -26,9 +27,9 @@
     "eslint-plugin-react": "^7.37.2",
     "eslint-plugin-react-hooks": "^5.0.0",
     "eslint-plugin-react-refresh": "^0.4.14",
-    "prettier": "^3.3.3",
     "globals": "^15.11.0",
     "postcss": "^8.4.47",
+    "prettier": "^3.3.3",
     "tailwindcss": "^3.4.14",
     "vite": "^5.4.10"
   }
